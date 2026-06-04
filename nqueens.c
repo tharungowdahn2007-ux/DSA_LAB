@@ -1,4 +1,4 @@
-//backtracking
+
 #include<stdio.h>
 #include<math.h>
 #define FALSE 0
